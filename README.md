@@ -18,14 +18,9 @@
 
 <div><br />
 
-<p><strong>About me</strong></p>
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Fabricio Rostand and I am studying to be a Full Stack Developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people.<br />
-
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,mongodb,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,python,mongodb,git,github&theme=dark" />
 
 #
 

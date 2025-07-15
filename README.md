@@ -20,7 +20,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgresql,mongodb,git,figma&theme=dark" />
 
 #
 

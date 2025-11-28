@@ -1,5 +1,5 @@
 <h3 align="center">
-  Full Stack Developer
+  Back-end Developer
 </h3>
 
 <div align='center'>
@@ -18,9 +18,13 @@
 
 <div><br />
 
-## &nbsp;My Stack
+## &nbsp;Main Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgresql,mongodb,git,docker,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,docker&theme=dark" />
+
+## &nbsp;Other Stacks
+
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,postgresql,mongodb&theme=dark" />
 
 #
 

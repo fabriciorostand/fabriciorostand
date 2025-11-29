@@ -1,5 +1,5 @@
 <h3 align="center">
-  Back-end Developer
+  Backend Developer
 </h3>
 
 <div align='center'>
@@ -24,7 +24,7 @@
 
 ## &nbsp;Other Stacks
 
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,postgresql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongodb&theme=dark" />
 
 #
 

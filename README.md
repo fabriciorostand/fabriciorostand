@@ -30,6 +30,6 @@
 
 <h3>Contact Me</h3>
 <div align="left">
-<a href="https://www.linkedin.com/in/fabricio-rostand-518a78335/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+<a href="https://www.linkedin.com/in/fabriciorostand"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
 <a href="mailto:fabriciorostand2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="32"></a>
 </div>
